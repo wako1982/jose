@@ -1,2 +1,2 @@
 # jose
-blog
+blog hecho en django personalizado
